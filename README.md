@@ -1,9 +1,8 @@
 ### Hi there 👋
 
+✨✨**ahnupsingh/ahnupsingh** 👋
 
-**ahnupsingh/ahnupsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some of the pooints about me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,5 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
