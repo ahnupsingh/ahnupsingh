@@ -13,6 +13,7 @@ Here are some of the points about me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnupsingh)](https://github.com/ahnupsingh/github-readme-stats)
 
 [![Anup's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnupsingh)](https://github.com/ahnupsingh/github-readme-stats)
 
